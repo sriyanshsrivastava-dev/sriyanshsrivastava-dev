@@ -34,7 +34,7 @@ Java • Python • SQL
 
 **Frameworks**
 
-Spring Boot • Flask
+Spring Boot • Flask • Fastapi • Django
 
 **Tools**
 
