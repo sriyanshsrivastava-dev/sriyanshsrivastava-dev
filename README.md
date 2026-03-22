@@ -8,10 +8,10 @@ I enjoy designing and developing applications ranging from web platforms and bac
 
 ## 🚀 About Me
 
-• Data Science student at IIT Madras
-• Interested in Software Engineering, Data Systems, and Machine Learning
-• Passionate about building scalable and maintainable systems
-• Continuously learning mathematics, algorithms, and system design
+- Data Science student at IIT Madras
+- Interested in Software Engineering, Data Systems, and Machine Learning
+- Passionate about building scalable and maintainable systems
+- Continuously learning mathematics, algorithms, and system design
 
 ---
 
