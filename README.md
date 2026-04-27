@@ -79,7 +79,7 @@ Each repository includes documentation explaining the architecture, design decis
 
 ## 📫 Contact
 
-Email: [sriyanshsrivastava-dev@gmail.com](mailto:sriyanshsrivastava-dev@gmail.com)
+Email: [sriyanshsrivastava.dev@gmail.com](mailto:sriyanshsrivastava.dev@gmail.com)
 
 ---
 
